@@ -1,6 +1,10 @@
-# Relógio AM/PM
+<div align="center">
+<h1>Relógio AM/PM</h1>
+</div>
 
-### Desenvolvido com HTML, CSS e JS.
+<div align="center">
+<h3> Desenvolvido com HTML, CSS e JS.</h3>
+</div>
 
 Caso queira deixar o relógio no modo 24hrs. 
 
